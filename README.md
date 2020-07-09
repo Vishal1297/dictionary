@@ -2,7 +2,9 @@
 
 ### A Dictionary Made With Python :alien:
 
-### To Run Just Type Following Command
+    "Dependencies" : Python 3.x
+
+### To Run Just Type Following Command  In Console
 
     python3 app.py
     
